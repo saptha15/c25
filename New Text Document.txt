@@ -1,0 +1,20 @@
+Class 25:
+
+* Add the animation to the bird class.
+*In all the classes we are repeating the same lines of codes but in our programming world we have something called DRY(do not repeat ) principle.
+
+*To avoid writing the same code for all the classes, we have a concept of
+inheritance in programming
+languages.
+
+*To avoid writing the same code for all
+the classes, in programming language
+we have a concept of a Parent / Base
+class and Children / Sub classes.
+
+*Similarly, in programming, a parent
+class is called a Base class and the
+inherited class i.e., the child is called
+a subclass.
+
+*The keyword extends is used by the subclass to inherit the features of Base class.
